@@ -1,10 +1,8 @@
 #! python3
 # What is the Manhattan distance from the central port to the closest intersection?
 # Advent of Code Day III
-# Pt.1 Crossed Wires
-# this solution fills in two separate sets of coordinates - representing spaces filled with wire and crosscheckes the second with the first
-# if any duplicate coordinates are found ... BINGO it's an intersection and gets copied into a third set (intesections).
-# Last step is calculation the closes intersection in third set
+# Pt.2 Crossed Wires
+
 
 import logging
 
